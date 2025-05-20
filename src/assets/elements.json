@@ -1,0 +1,331 @@
+[
+    {
+      "atomicNumber": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "origin": "Big bang",
+      "description": "Hydrogen was produced in the Big Bang and is the most abundant element in the universe."
+    },
+    {
+      "atomicNumber": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "origin": "Big bang",
+      "description": "Helium was also produced in the Big Bang and is the second most abundant element in the universe."
+    },
+    {
+      "atomicNumber": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "origin": "Big bang",
+      "description": "Lithium was produced in small quantities during the Big Bang nucleosynthesis."
+    },
+    {
+      "atomicNumber": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "origin": "Dying stars",
+      "description": "Beryllium is produced by cosmic ray spallation in space."
+    },
+    {
+      "atomicNumber": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "origin": "Dying stars",
+      "description": "Boron is produced by cosmic ray spallation of heavier elements."
+    },
+    {
+      "atomicNumber": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "origin": "Dying stars",
+      "description": "Carbon is produced in dying low-mass stars through the triple-alpha process."
+    },
+    {
+      "atomicNumber": 7,
+      "symbol": "N",
+      "name": "Nitrogen",
+      "origin": "Dying stars",
+      "description": "Nitrogen is produced through the CNO cycle in stars."
+    },
+    {
+      "atomicNumber": 8,
+      "symbol": "O",
+      "name": "Oxygen",
+      "origin": "Massive stars",
+      "description": "Oxygen is produced in massive stars and is the third most abundant element in the universe."
+    },
+    {
+      "atomicNumber": 9,
+      "symbol": "F",
+      "name": "Fluorine",
+      "origin": "Dying stars",
+      "description": "Fluorine is produced in asymptotic giant branch stars."
+    },
+    {
+      "atomicNumber": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "origin": "Massive stars",
+      "description": "Neon is produced through carbon burning in massive stars."
+    },
+    {
+      "atomicNumber": 11,
+      "symbol": "Na",
+      "name": "Sodium",
+      "origin": "Massive stars",
+      "description": "Sodium is produced through carbon burning in massive stars."
+    },
+    {
+      "atomicNumber": 12,
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "origin": "Massive stars",
+      "description": "Magnesium is produced in massive stars through silicon burning."
+    },
+    {
+      "atomicNumber": 13,
+      "symbol": "Al",
+      "name": "Aluminum",
+      "origin": "Massive stars",
+      "description": "Aluminum is produced in massive stars through silicon burning."
+    },
+    {
+      "atomicNumber": 14,
+      "symbol": "Si",
+      "name": "Silicon",
+      "origin": "Massive stars",
+      "description": "Silicon is produced in massive stars through oxygen burning."
+    },
+    {
+      "atomicNumber": 15,
+      "symbol": "P",
+      "name": "Phosphorus",
+      "origin": "Massive stars",
+      "description": "Phosphorus is produced in massive stars through silicon burning."
+    },
+    {
+      "atomicNumber": 16,
+      "symbol": "S",
+      "name": "Sulfur",
+      "origin": "Massive stars",
+      "description": "Sulfur is produced in massive stars through oxygen burning."
+    },
+    {
+      "atomicNumber": 17,
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "origin": "Massive stars",
+      "description": "Chlorine is produced in massive stars through oxygen burning."
+    },
+    {
+      "atomicNumber": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "origin": "Massive stars",
+      "description": "Argon is produced in massive stars through oxygen burning."
+    },
+    {
+      "atomicNumber": 19,
+      "symbol": "K",
+      "name": "Potassium",
+      "origin": "Massive stars",
+      "description": "Potassium is produced in massive stars through silicon burning."
+    },
+    {
+      "atomicNumber": 20,
+      "symbol": "Ca",
+      "name": "Calcium",
+      "origin": "Massive stars",
+      "description": "Calcium is produced in massive stars through silicon burning."
+    },
+    {
+      "atomicNumber": 21,
+      "symbol": "Sc",
+      "name": "Scandium",
+      "origin": "Supernovae",
+      "description": "Scandium is produced in supernovae through the alpha process."
+    },
+    {
+      "atomicNumber": 22,
+      "symbol": "Ti",
+      "name": "Titanium",
+      "origin": "Supernovae",
+      "description": "Titanium is produced in supernovae through silicon burning and alpha process."
+    },
+    {
+      "atomicNumber": 23,
+      "symbol": "V",
+      "name": "Vanadium",
+      "origin": "Supernovae",
+      "description": "Vanadium is produced in supernovae through explosive nucleosynthesis."
+    },
+    {
+      "atomicNumber": 24,
+      "symbol": "Cr",
+      "name": "Chromium",
+      "origin": "Supernovae",
+      "description": "Chromium is produced in supernovae through silicon burning."
+    },
+    {
+      "atomicNumber": 25,
+      "symbol": "Mn",
+      "name": "Manganese",
+      "origin": "Supernovae",
+      "description": "Manganese is produced in supernovae through silicon burning."
+    },
+    {
+      "atomicNumber": 26,
+      "symbol": "Fe",
+      "name": "Iron",
+      "origin": "Supernovae",
+      "description": "Iron is primarily produced in supernovae through silicon burning. It is the most stable element and represents the endpoint of stellar nucleosynthesis."
+    },
+    {
+      "atomicNumber": 27,
+      "symbol": "Co",
+      "name": "Cobalt",
+      "origin": "Supernovae",
+      "description": "Cobalt is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 28,
+      "symbol": "Ni",
+      "name": "Nickel",
+      "origin": "Supernovae",
+      "description": "Nickel is produced in supernovae through silicon burning."
+    },
+    {
+      "atomicNumber": 29,
+      "symbol": "Cu",
+      "name": "Copper",
+      "origin": "Supernovae",
+      "description": "Copper is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 30,
+      "symbol": "Zn",
+      "name": "Zinc",
+      "origin": "Supernovae",
+      "description": "Zinc is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 31,
+      "symbol": "Ga",
+      "name": "Gallium",
+      "origin": "Supernovae",
+      "description": "Gallium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 32,
+      "symbol": "Ge",
+      "name": "Germanium",
+      "origin": "Supernovae",
+      "description": "Germanium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 33,
+      "symbol": "As",
+      "name": "Arsenic",
+      "origin": "Supernovae",
+      "description": "Arsenic is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 34,
+      "symbol": "Se",
+      "name": "Selenium",
+      "origin": "Supernovae",
+      "description": "Selenium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 35,
+      "symbol": "Br",
+      "name": "Bromine",
+      "origin": "Supernovae",
+      "description": "Bromine is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 36,
+      "symbol": "Kr",
+      "name": "Krypton",
+      "origin": "Supernovae",
+      "description": "Krypton is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 37,
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "origin": "Supernovae",
+      "description": "Rubidium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 38,
+      "symbol": "Sr",
+      "name": "Strontium",
+      "origin": "Supernovae",
+      "description": "Strontium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 39,
+      "symbol": "Y",
+      "name": "Yttrium",
+      "origin": "Supernovae",
+      "description": "Yttrium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 40,
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "origin": "Supernovae",
+      "description": "Zirconium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 47,
+      "symbol": "Ag",
+      "name": "Silver",
+      "origin": "Supernovae",
+      "description": "Silver is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 57,
+      "symbol": "La",
+      "name": "Lanthanum",
+      "origin": "Supernovae",
+      "description": "Lanthanum is produced in supernovae through the r-process and s-process."
+    },
+    {
+      "atomicNumber": 58,
+      "symbol": "Ce",
+      "name": "Cerium",
+      "origin": "Supernovae",
+      "description": "Cerium is produced in supernovae through the r-process and s-process."
+    },
+    {
+      "atomicNumber": 59,
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "origin": "Supernovae",
+      "description": "Praseodymium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 60,
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "origin": "Supernovae",
+      "description": "Neodymium is produced in supernovae through the r-process."
+    },
+    {
+      "atomicNumber": 79,
+      "symbol": "Au",
+      "name": "Gold",
+      "origin": "Supernovae",
+      "description": "Gold is produced in supernovae through the r-process and neutron star mergers."
+    },
+    {
+      "atomicNumber": 78,
+      "symbol": "Pt",
+      "name": "Platinum",
+      "origin": "Supernovae",
+      "description": "Platinum is produced in supernovae and neutron star mergers through the r-process."
+    }
+  ]

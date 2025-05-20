@@ -1,8 +1,8 @@
-# nadc_web
+# ai_town_web
 
 ## Project setup
 ```
-npm install
+npm installai_town
 ```
 
 ### Compiles and hot-reloads for development

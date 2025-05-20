@@ -51,6 +51,6 @@ npm run build
 - 🌙 深色模式
 
 
-# 🖥️ 聊天记录页面
+## 🖥️ 聊天记录页面
 ![这是图片](src/assets/anna_jack.png "Magic Gardens")
 ![这是图片](src/assets/yuri_tom.png "Magic Gardens")

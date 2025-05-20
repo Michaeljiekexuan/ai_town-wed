@@ -49,3 +49,5 @@ npm run build
 - 📤 支持导出为 Markdown / PDF
 
 - 🌙 深色模式
+  
+![这是图片](src/assets/anna_jack.png "Magic Gardens")
